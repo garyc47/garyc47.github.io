@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+body {
+  text-align: center;
+  background: url("http://i.imgur.com/q0FaaAk.jpg");
+  background-size: cover;
+  color: white;
+  font-family: Calibri;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
+
+h1, p {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
